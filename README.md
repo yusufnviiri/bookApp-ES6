@@ -8,7 +8,7 @@ Creating BookApp with   modular JavaScript
 -JavaScript
 
 ## Live Demo
-coming
+ https://yusufnviiri.github.io/bookApp-ES6/
 
 ## setup to access the project
 
