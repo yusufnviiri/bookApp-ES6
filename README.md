@@ -9,8 +9,10 @@ Creating BookApp with   modular JavaScript
 
 ## Live Demo
 
-Check out the **live demo** [here.](
+Check out the **live demo** [github-pages](
  https://yusufnviiri.github.io/bookApp-ES6/)
+
+ [netlify](https://glittery-cassata-bff5af.netlify.app)
 
 ## setup to access the project
 > To get a local copy up and running follow these simple steps.
