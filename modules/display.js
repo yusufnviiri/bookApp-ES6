@@ -47,6 +47,7 @@ export class displayControl {
 export const addBook = (book) => {
   const books = getbooks();
   books.push(book);
+  console.log(typeof books);
   localStorage.setItem('books', JSON.stringify(books));
 };
 

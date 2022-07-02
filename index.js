@@ -50,7 +50,7 @@ document.querySelector('#book-list').addEventListener('click', (e) => {
   displayControl.deleteBook(e.target);
 
   // remove from displayControl
-  removeBook(e.target.parentElement.innerHTML);
+  removeBook();
 });
 
 // creating date section
@@ -65,9 +65,9 @@ contact.innerHTML = `<h2>
       <br>You can reach out to us!
       </p>
     <ul>
-      <li>Our email:mail@mail.com</li>
-      <li>Our Phone number:004386534422</li>
-      <li>Our address:Streetname 22,88273 Islamabad,Pakistan </li>
+      <li>yusufnviiri@gmail.com</li>
+      <li>Our Phone number:+256777471583</li>
+      <li>Our address:Kampala,Uganda </li>
     </ul>`;
 
 displayBooks.addEventListener('click', displayBookListonly);
